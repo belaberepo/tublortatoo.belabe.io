@@ -1,0 +1,14 @@
+Package: (com.AustinIndustries.thehangoversoundboard_1.0)
+Name: (thehangoversoundboard_1.0) 
+Version: (1.0)
+Size: (300)
+Architecture: iphoneos-arm
+Description: (the hangover sound board. Has a bunch of sounds that are fricken halarious)
+Maintainer: (AustinIndustries) <email@provider.com>
+Author: (Austin) <email@provider.com>
+Section: (Soundboard)
+MD5sum:
+SHA1sum:
+SHA256sum:
+Filename: debs//thehangoversoundboard_1.0.deb
+
